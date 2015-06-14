@@ -113,8 +113,14 @@
 		{
 			"minzoom": 14,
 			"maxzoom": 19,
-			"icon": "icons/de-ne1-16.png",
+			"icon": "icons/de-ne14-16.png",
 			"caption": "Ne 1 Trapeztafel"
+		},
+		{
+			"minzoom": 14,
+			"maxzoom": 19,
+			"icon": "icons/de-ne1-16.png",
+			"caption": "Ne 14 (ETCS-Halt-Tafel)"
 		},
 		{
 			"minzoom": 14,
