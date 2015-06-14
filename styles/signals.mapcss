@@ -476,6 +476,18 @@ node|z14-[railway=signal]["railway:signal:main"="ne1"]["railway:signal:main:form
 	allow-overlap: true;
 }
 
+/***************************/
+/* DE ETCS Stop Marker Ne 14 */
+/***************************/
+node|z14-[railway=signal]["railway:signal:main"="DE-ESO:ne14"],
+{
+	z-index: 10000;
+	icon-image: "icons/de-ne14-32.png";
+	icon-width: 16;
+	icon-height: 16;
+	allow-overlap: true;
+}
+
 /**********************************************/
 /* DE distant semaphore signals type Vr which */
 /*  - do not share post with a main signal    */
